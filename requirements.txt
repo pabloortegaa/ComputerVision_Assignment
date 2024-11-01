@@ -1,0 +1,6 @@
+#tensorflow
+numpy
+rasterio
+scikit-learn
+torch
+matplotlib
